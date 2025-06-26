@@ -67,11 +67,6 @@ A robust web application designed to streamline appointment scheduling for busin
   <!-- Add more platforms below as needed -->
 </p>
 
-- [LinkedIn](https://www.linkedin.com/in/chetna-garg-425932265/)
-- [Codeforces](https://codeforces.com/profile/Chetna_)
-- [LeetCode](https://leetcode.com/u/gargchetna11/)
-- [GitHub](https://github.com/Chetna1405)
-
 ---
 
 ### ⚡ Fun Facts
